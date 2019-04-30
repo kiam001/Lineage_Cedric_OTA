@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 0,
-      "filename": "lineage-16.0-2019xxxx-UNOFFICIAL-cedric.zip",
-      "id": "sha256-sum",
+      "datetime": 1556569501,
+      "filename": "lineage-16.0-20190429-UNOFFICIAL-cedric.zip",
+      "id": "1d6acb2a11c48ee29b9953674b782a39191ca1c4e9484eb85a51ac2fd6b8d250",
       "romtype": "unofficial",
-      "size": 0,
+      "size": 641300768,
       "url": "use github releases to download releases",
       "version": "16.0"
     }
