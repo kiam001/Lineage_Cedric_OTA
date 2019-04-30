@@ -8,5 +8,5 @@ I kanged from YumeMichi
 
 Device Tree, Vendor and kernel by Sohamlad7
 
-Thx for helping from users from Telegramme @cedricchat
+Thx for helping from users from Telegramm @cedricchat
 
