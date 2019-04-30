@@ -2,6 +2,6 @@
 
 Install the Updates that i build Over the Air
 
-# Cedits
+# Credits
 
 I kanged from YumeMichi
