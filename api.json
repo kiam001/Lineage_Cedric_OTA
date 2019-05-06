@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1556734784,
-      "filename": "lineage-16.0-20190501-UNOFFICIAL-cedric.zip",
-      "id": "14c5433fab72b06c30de8fa2343873a204e0d318809ab954aaacc706172447dd",
+      "datetime": 1557083583,
+      "filename": "lineage-16.0-20190505-UNOFFICIAL-cedric.zip",
+      "id": "835e563f77e8f7740bf7d1a96d2b105c9094d27023cd491dd063bf6d80a52ace",
       "romtype": "unofficial",
-      "size": 640719091,
-      "url": "https://github.com/kiam001/Lineage_Cedric_OTA/releases/download/v02/lineage-16.0-20190501-UNOFFICIAL-cedric.zip",
+      "size": 640945749,
+      "url": "https://github.com/kiam001/Lineage_Cedric_OTA/releases/download/v03/lineage-16.0-20190505-UNOFFICIAL-cedric.zip",
       "version": "16.0"
     }
   ]
